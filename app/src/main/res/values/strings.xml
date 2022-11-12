@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Craker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_foods">Hello blank fragment Foods</string>
+    <string name="hello_blank_fragment_statistic">Hello blank fragment Statistic</string>
+    <string name="foods">Foods</string>
+    <string name="statistic">Statistics</string>
+    <string name="diary">Diary</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
